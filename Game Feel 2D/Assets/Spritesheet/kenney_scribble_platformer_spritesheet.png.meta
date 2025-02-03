@@ -1,0 +1,3067 @@
+fileFormatVersion: 2
+guid: 1c8fa557b9b3ddf418f5358efecba15b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7814752275714677441
+    second: spritesheet_default_0
+  - first:
+      213: 6920992211604364072
+    second: spritesheet_default_1
+  - first:
+      213: -4740915770850827944
+    second: spritesheet_default_2
+  - first:
+      213: 5564033804792488463
+    second: spritesheet_default_3
+  - first:
+      213: -3307288631444210258
+    second: spritesheet_default_4
+  - first:
+      213: 5069725386070517938
+    second: spritesheet_default_5
+  - first:
+      213: -4211962826239868023
+    second: spritesheet_default_6
+  - first:
+      213: -2331698532662055577
+    second: spritesheet_default_7
+  - first:
+      213: -6654251643608154267
+    second: spritesheet_default_8
+  - first:
+      213: -8366988449928606121
+    second: spritesheet_default_9
+  - first:
+      213: 8170798025230534844
+    second: spritesheet_default_10
+  - first:
+      213: 2593743623052729465
+    second: spritesheet_default_11
+  - first:
+      213: -6760883905233668708
+    second: spritesheet_default_12
+  - first:
+      213: -8358185576869512034
+    second: spritesheet_default_13
+  - first:
+      213: -537158546513418281
+    second: spritesheet_default_14
+  - first:
+      213: 7899271584169562100
+    second: spritesheet_default_15
+  - first:
+      213: 5725407912479050125
+    second: spritesheet_default_16
+  - first:
+      213: -5832522660752377908
+    second: spritesheet_default_17
+  - first:
+      213: 2481084204971982344
+    second: spritesheet_default_18
+  - first:
+      213: -9003799321488806020
+    second: spritesheet_default_19
+  - first:
+      213: -2492125361009974894
+    second: spritesheet_default_20
+  - first:
+      213: -7791477421285957324
+    second: spritesheet_default_21
+  - first:
+      213: 4884829787658739679
+    second: spritesheet_default_22
+  - first:
+      213: 2120637544823580857
+    second: spritesheet_default_23
+  - first:
+      213: -2601116869553585422
+    second: spritesheet_default_24
+  - first:
+      213: 6448876214575228946
+    second: spritesheet_default_25
+  - first:
+      213: 4404497143597259503
+    second: spritesheet_default_26
+  - first:
+      213: 241754334083296054
+    second: spritesheet_default_27
+  - first:
+      213: 8237493572959063896
+    second: spritesheet_default_28
+  - first:
+      213: 5543189271314906873
+    second: spritesheet_default_29
+  - first:
+      213: 8641167947924126256
+    second: spritesheet_default_30
+  - first:
+      213: 5970641702988476032
+    second: spritesheet_default_31
+  - first:
+      213: 5535763506625180697
+    second: spritesheet_default_32
+  - first:
+      213: -5194727174585971038
+    second: spritesheet_default_33
+  - first:
+      213: 4770475400985477701
+    second: spritesheet_default_34
+  - first:
+      213: -427438534385962493
+    second: spritesheet_default_35
+  - first:
+      213: -6564682533675616219
+    second: spritesheet_default_36
+  - first:
+      213: -2337995952557372575
+    second: spritesheet_default_37
+  - first:
+      213: 4697035385535839680
+    second: spritesheet_default_38
+  - first:
+      213: 5766977606222783047
+    second: spritesheet_default_39
+  - first:
+      213: -1421747675012922134
+    second: spritesheet_default_40
+  - first:
+      213: -3864307492100795534
+    second: spritesheet_default_41
+  - first:
+      213: 8811034354198503092
+    second: spritesheet_default_42
+  - first:
+      213: -1650944053193088944
+    second: spritesheet_default_43
+  - first:
+      213: -2884420523991296293
+    second: spritesheet_default_44
+  - first:
+      213: 7726236740651850000
+    second: spritesheet_default_45
+  - first:
+      213: 8065074993333557795
+    second: spritesheet_default_46
+  - first:
+      213: 6775659742197411974
+    second: spritesheet_default_47
+  - first:
+      213: 2334453328297426759
+    second: spritesheet_default_48
+  - first:
+      213: 5840328973250409020
+    second: spritesheet_default_49
+  - first:
+      213: 1142098347317918301
+    second: spritesheet_default_50
+  - first:
+      213: 1244696491236767707
+    second: spritesheet_default_51
+  - first:
+      213: -5292907859179451173
+    second: spritesheet_default_52
+  - first:
+      213: -6144719214229673971
+    second: spritesheet_default_53
+  - first:
+      213: 6646031625434543905
+    second: spritesheet_default_54
+  - first:
+      213: -3670048257992594601
+    second: spritesheet_default_55
+  - first:
+      213: -2809407215323275509
+    second: spritesheet_default_56
+  - first:
+      213: 3728968750915078623
+    second: spritesheet_default_57
+  - first:
+      213: -1425568933376444513
+    second: spritesheet_default_58
+  - first:
+      213: 444357456890667908
+    second: spritesheet_default_59
+  - first:
+      213: -7667759214101595500
+    second: spritesheet_default_60
+  - first:
+      213: -39434671456230756
+    second: spritesheet_default_61
+  - first:
+      213: 3654498907305140917
+    second: spritesheet_default_62
+  - first:
+      213: 877031216411069817
+    second: spritesheet_default_63
+  - first:
+      213: 2834639828160470048
+    second: spritesheet_default_64
+  - first:
+      213: 7706200442819239747
+    second: spritesheet_default_65
+  - first:
+      213: -1082583674103695445
+    second: spritesheet_default_66
+  - first:
+      213: -6518025988980475418
+    second: spritesheet_default_67
+  - first:
+      213: -9119665688839014303
+    second: spritesheet_default_68
+  - first:
+      213: 4957342302110059683
+    second: spritesheet_default_69
+  - first:
+      213: -4992919571599983036
+    second: spritesheet_default_70
+  - first:
+      213: 4439911012983038821
+    second: spritesheet_default_71
+  - first:
+      213: -324432620754629398
+    second: spritesheet_default_72
+  - first:
+      213: 5467608792226136401
+    second: spritesheet_default_73
+  - first:
+      213: -5321656012994664542
+    second: spritesheet_default_74
+  - first:
+      213: 1545638055813937142
+    second: spritesheet_default_75
+  - first:
+      213: 7430453441111001795
+    second: spritesheet_default_76
+  - first:
+      213: -8058130355726066958
+    second: spritesheet_default_77
+  - first:
+      213: -7008610393986361316
+    second: spritesheet_default_78
+  - first:
+      213: -5440482936541920634
+    second: spritesheet_default_79
+  - first:
+      213: 8495032728870068869
+    second: spritesheet_default_80
+  - first:
+      213: -7948350008178062262
+    second: spritesheet_default_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350af315deb953e46bbefe6cc4002236
+      internalID: 1663313048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d0bb1e5bb097499becbffa976fe6d
+      internalID: 1970065094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fdc62baa14c24f8380d424014a9d4
+      internalID: 935845746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1cc361d39c6874bb37436dec592434
+      internalID: 786542330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7001867c307948834adb674ff7b17
+      internalID: -2058774652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde703760f3ec64eac3662059ab3fcd
+      internalID: -1649054876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5dd6ae1b596c4ebab540960629082
+      internalID: -25253720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1391944486bbbb4594a8350be327e41
+      internalID: 78548557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365bdc916ac89340aa8c6bb3e34b394
+      internalID: 1828912191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f401fcf3370e35459ff72997345f0fb
+      internalID: 653008123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c327b6c89765547a13b45546ddd4f6
+      internalID: 174112352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e82a96d1bc3845a20a21e9dd1923b
+      internalID: 1243944729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20bf851f7e0dcf418d2716cd8fa89b9
+      internalID: 1168445136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbca1ec44e4e64d81f8f05e76cf5c4
+      internalID: -1074297612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e92f88746e9546a2e0ab78601e5a8
+      internalID: 1385930770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d9d84ebc160c4482b8b898e997b77
+      internalID: -907957997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc6d5fc4dbf034e9a98fe6bf57a73c
+      internalID: 480946117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83337775ad5107438b4968105d4c48b
+      internalID: 1174813763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e75479ac6ba3054cafe453ea78ff158
+      internalID: -478584444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa345f5ebb4754b8992cc1dde044e7
+      internalID: 1676417277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de40ad406626024bb836c9263f2c9ea
+      internalID: -1988452679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0d80b1eb17554db99dd6c63ea2161
+      internalID: -228046631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d730e591db073349a36121e9d816a19
+      internalID: -1739968698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5059221a6fbd459cae4cd71f65a7b
+      internalID: 1157376828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7482d2aa5b068ce4ab0e95c5cfee411b
+      internalID: 742037632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ba9c29557fc94aaf37d54cf8da95f
+      internalID: 1766832622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037abaff20a9bde41aa7bd8337ae784a
+      internalID: 1054941340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10c9d0b0a2dcc49841e536455d9764
+      internalID: 1940332197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcbae8b3654f74c82e71d1f9af1550
+      internalID: -632284332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5aa056173bec944b15d61ff0ac0e4e
+      internalID: -1819178593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6925d62fb5b5541beed4f28f41e82b
+      internalID: -1119486681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71e513d4b13274b9d23cdfd84c6649
+      internalID: -1783710466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ede935b57af745bb38cfab2089183
+      internalID: 46626903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961d9cf60147914289ecd469397a17c
+      internalID: -1185926908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7dfa41f0073d40b0f3dd519a963af
+      internalID: 1331318065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce015606468e2418576c04e74365c4
+      internalID: -2094364868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6a1683b20df046893461092cb0a3f
+      internalID: 1089946424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a456f58777c346aed993739304f97
+      internalID: 1840382787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd635bbc81815747bdb5738a7e81413
+      internalID: -2127433295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d152aef27f45b040960886b83235f7e
+      internalID: 68212996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c369faaf6425c7418745bc3664bd90c
+      internalID: 1331224209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4dba7760cc33489fd9067716a76b0
+      internalID: 201354219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29962817d6386a42852c0711c9815c8
+      internalID: 459608309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a0ae62e8398049958b8f94b2abd11
+      internalID: 604440081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb01c7e6c467bd409ce987ad7333cbb
+      internalID: -2078976570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a841f7ed28c14c80a5176e439a141
+      internalID: 1710262118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617f6e2019357b44aa4469a6b9544b4
+      internalID: 532696943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef990eeec1c78741bcab244fe9414bb
+      internalID: 1212613204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15409e1e804384593e2e2c12df8044
+      internalID: -1390588561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6f24d66dd0c347a68779744b81542
+      internalID: -150081631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e1a11efe3763429e79cfd9ea8d7b5
+      internalID: 1406503965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6976373cd5cd2d4ebdaf8cde8cd8675
+      internalID: -1436805962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f646a902a0ee33449712912fc13301f
+      internalID: -1646706540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61aafc7b1e08194086e607dc6a08bde
+      internalID: 1521879821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b69726a284ba4aaf602c736335e97
+      internalID: -1394354343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23691a60bb7e69b4cadb654297eb96be
+      internalID: -582569500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf56464924bbe94aaf4cf44971243bf
+      internalID: -930582597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca2d31b13eb944d9fa8a4ac5e3d32e
+      internalID: -291963680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407326c3764d5224fb02e5b1df5c1947
+      internalID: 660814997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab37e8c8eb193c438288a71b3a42ab6
+      internalID: -1599994760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1f645f7d8b084982eaba0a803cf1e
+      internalID: -1805235316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0167158b209729498080e1386e4b2c8
+      internalID: -888749518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06d106bd5f99a478a7a3bcedf5888f
+      internalID: 1930630396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ad1838288d0049be2aa5cf1adad22
+      internalID: 570608632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e02ab1e454e29478862cdc34591578
+      internalID: -199983013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e19c37150c38b64c96f5ac56b36241f
+      internalID: 1483779058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6015dc16d1e7409a7f119a1afb389
+      internalID: -1816866784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b030bb850d303cc49aaca0e26310d49a
+      internalID: -243980796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a3dc1db4d37344588409c05fb7a398
+      internalID: -1001281229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c570f3bbc29b481478db9578523eb5cc
+      internalID: 666082046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305d2b019177d4fbd9a7f05fb67553
+      internalID: 51764376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6454e7602b0674eb9f0cdaefcf0230
+      internalID: -674383765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5c99c17e976a47af063d7cb440175
+      internalID: 661188121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982413f8c3b51cf44afbf0b087aff3e4
+      internalID: 1927930789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6263b17f8eb48394282f8b571687ce69
+      internalID: 1217338941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36f451668adb242b6bfe5c24ba109a
+      internalID: 1208793116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c7f8cc0ec551944a483a26921cfb08
+      internalID: 1052520738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e6a6759a1ea94faabe705ab2ab91b
+      internalID: -1928351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ee433f8fb9324a81475e16bc5576a
+      internalID: 1726956737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9365163169785f48a47bd8b3b618d35
+      internalID: 1752133182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543cd127708c34f4cb99817a7ec88f46
+      internalID: -486875731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c59fc8566bcc7542a6a29844a49793d
+      internalID: 451820359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96b8307076cca4aac2c0ba05545763
+      internalID: 643939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af112fe37a6b76f4bbf0e2ed5caafdd8
+      internalID: -403450649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6eafbd930d9b42831ddc811dff108
+      internalID: 1707399602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002d1ba794ad114f85a165f509231b5
+      internalID: 259466219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452768ec15813444b971713d67406af9
+      internalID: -565091596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f25059e1c6a90418b7bbd09a2bb8bd
+      internalID: -964627449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca725de6a050e26478403fd91df9c905
+      internalID: 241613620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1000530535bb41887a4da6e9c4132
+      internalID: 929986370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a77e55585a224fa73c4c9e7c75794
+      internalID: 2121426120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb8dd721c90bf4da217b0922446f32
+      internalID: 1467530398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4c2449fd5bd747b696c5ef286c441
+      internalID: 463894250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f82ee82d47aa142a0d04f340c15ab1
+      internalID: 1896926547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b8cb4c0baadb4aa6e83f76bab647c
+      internalID: -1973032750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981028a19506ff448ea8b2a67341240
+      internalID: -2073886165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147dec502f5937438675008fcf9d2cd
+      internalID: -635138768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8fb9fa3a97464d9b4393fa7b4f79f
+      internalID: 1565756439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860c6939d9435946bc4bcd47ca60312
+      internalID: 1556754289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfca63513a37c2498cd2dca5298047f
+      internalID: -1557784437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c28432fb7af4b498f4462d2c048f53
+      internalID: 1890523002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cc4a942ce17d4b82d7510e7360973
+      internalID: 1124771192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7892ffd454d443870265e44d58202
+      internalID: -1961531918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b66c9f56d1e842af190f7b920acb7
+      internalID: -719097879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a88239b65ef2e64cae43caafe27a8bf
+      internalID: 125125643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf1771455d6624ca0743c81738df81
+      internalID: 592243220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c9db423fab074bbbdb6f046f03d79
+      internalID: 1935784186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2424a3398f24d9439557a148610f884
+      internalID: 1554510802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e2b6a67d3cc946b9b96b63e3172b8
+      internalID: -2113701198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180cdbdfbf2026a418a399bf99ea5300
+      internalID: -103800086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd5a06f7da253d49825f378eaba0933
+      internalID: 1655948848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc5953fcb6f4e439e06972070f53f7
+      internalID: -228836648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ad88acc2295642a1ffb79ea29f177
+      internalID: 1597029465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ec8d92bb661e459c6ddbace91d764
+      internalID: -1657658090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e4b745ea57e34a89c78979739a236
+      internalID: -665833574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21638c58055d4894b95802b36c7019fb
+      internalID: -1135162989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenney_scribble_platformer_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da508f82133fba488422486b850d788
+      internalID: 322979404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec20777d20ee895458e3891f62dfb004
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kenney_scribble_platformer_spritesheet_0: 1663313048
+      kenney_scribble_platformer_spritesheet_1: 1970065094
+      kenney_scribble_platformer_spritesheet_10: 174112352
+      kenney_scribble_platformer_spritesheet_100: 1890523002
+      kenney_scribble_platformer_spritesheet_101: 1124771192
+      kenney_scribble_platformer_spritesheet_102: -1961531918
+      kenney_scribble_platformer_spritesheet_103: -719097879
+      kenney_scribble_platformer_spritesheet_104: 125125643
+      kenney_scribble_platformer_spritesheet_105: 592243220
+      kenney_scribble_platformer_spritesheet_106: 1935784186
+      kenney_scribble_platformer_spritesheet_107: 1554510802
+      kenney_scribble_platformer_spritesheet_108: -2113701198
+      kenney_scribble_platformer_spritesheet_109: -103800086
+      kenney_scribble_platformer_spritesheet_11: 1243944729
+      kenney_scribble_platformer_spritesheet_110: 1655948848
+      kenney_scribble_platformer_spritesheet_111: -228836648
+      kenney_scribble_platformer_spritesheet_112: 1597029465
+      kenney_scribble_platformer_spritesheet_113: -1657658090
+      kenney_scribble_platformer_spritesheet_114: -665833574
+      kenney_scribble_platformer_spritesheet_115: -1135162989
+      kenney_scribble_platformer_spritesheet_116: 322979404
+      kenney_scribble_platformer_spritesheet_12: 1168445136
+      kenney_scribble_platformer_spritesheet_13: -1074297612
+      kenney_scribble_platformer_spritesheet_14: 1385930770
+      kenney_scribble_platformer_spritesheet_15: -907957997
+      kenney_scribble_platformer_spritesheet_16: 480946117
+      kenney_scribble_platformer_spritesheet_17: 1174813763
+      kenney_scribble_platformer_spritesheet_18: -478584444
+      kenney_scribble_platformer_spritesheet_19: 1676417277
+      kenney_scribble_platformer_spritesheet_2: 935845746
+      kenney_scribble_platformer_spritesheet_20: -1988452679
+      kenney_scribble_platformer_spritesheet_21: -228046631
+      kenney_scribble_platformer_spritesheet_22: -1739968698
+      kenney_scribble_platformer_spritesheet_23: 1157376828
+      kenney_scribble_platformer_spritesheet_24: 742037632
+      kenney_scribble_platformer_spritesheet_25: 1766832622
+      kenney_scribble_platformer_spritesheet_26: 1054941340
+      kenney_scribble_platformer_spritesheet_27: 1940332197
+      kenney_scribble_platformer_spritesheet_28: -632284332
+      kenney_scribble_platformer_spritesheet_29: -1819178593
+      kenney_scribble_platformer_spritesheet_3: 786542330
+      kenney_scribble_platformer_spritesheet_30: -1119486681
+      kenney_scribble_platformer_spritesheet_31: -1783710466
+      kenney_scribble_platformer_spritesheet_32: 46626903
+      kenney_scribble_platformer_spritesheet_33: -1185926908
+      kenney_scribble_platformer_spritesheet_34: 1331318065
+      kenney_scribble_platformer_spritesheet_35: -2094364868
+      kenney_scribble_platformer_spritesheet_36: 1089946424
+      kenney_scribble_platformer_spritesheet_37: 1840382787
+      kenney_scribble_platformer_spritesheet_38: -2127433295
+      kenney_scribble_platformer_spritesheet_39: 68212996
+      kenney_scribble_platformer_spritesheet_4: -2058774652
+      kenney_scribble_platformer_spritesheet_40: 1331224209
+      kenney_scribble_platformer_spritesheet_41: 201354219
+      kenney_scribble_platformer_spritesheet_42: 459608309
+      kenney_scribble_platformer_spritesheet_43: 604440081
+      kenney_scribble_platformer_spritesheet_44: -2078976570
+      kenney_scribble_platformer_spritesheet_45: 1710262118
+      kenney_scribble_platformer_spritesheet_46: 532696943
+      kenney_scribble_platformer_spritesheet_47: 1212613204
+      kenney_scribble_platformer_spritesheet_48: -1390588561
+      kenney_scribble_platformer_spritesheet_49: -150081631
+      kenney_scribble_platformer_spritesheet_5: -1649054876
+      kenney_scribble_platformer_spritesheet_50: 1406503965
+      kenney_scribble_platformer_spritesheet_51: -1436805962
+      kenney_scribble_platformer_spritesheet_52: -1646706540
+      kenney_scribble_platformer_spritesheet_53: 1521879821
+      kenney_scribble_platformer_spritesheet_54: -1394354343
+      kenney_scribble_platformer_spritesheet_55: -582569500
+      kenney_scribble_platformer_spritesheet_56: -930582597
+      kenney_scribble_platformer_spritesheet_57: -291963680
+      kenney_scribble_platformer_spritesheet_58: 660814997
+      kenney_scribble_platformer_spritesheet_59: -1599994760
+      kenney_scribble_platformer_spritesheet_6: -25253720
+      kenney_scribble_platformer_spritesheet_60: -1805235316
+      kenney_scribble_platformer_spritesheet_61: -888749518
+      kenney_scribble_platformer_spritesheet_62: 1930630396
+      kenney_scribble_platformer_spritesheet_63: 570608632
+      kenney_scribble_platformer_spritesheet_64: -199983013
+      kenney_scribble_platformer_spritesheet_65: 1483779058
+      kenney_scribble_platformer_spritesheet_66: -1816866784
+      kenney_scribble_platformer_spritesheet_67: -243980796
+      kenney_scribble_platformer_spritesheet_68: -1001281229
+      kenney_scribble_platformer_spritesheet_69: 666082046
+      kenney_scribble_platformer_spritesheet_7: 78548557
+      kenney_scribble_platformer_spritesheet_70: 51764376
+      kenney_scribble_platformer_spritesheet_71: -674383765
+      kenney_scribble_platformer_spritesheet_72: 661188121
+      kenney_scribble_platformer_spritesheet_73: 1927930789
+      kenney_scribble_platformer_spritesheet_74: 1217338941
+      kenney_scribble_platformer_spritesheet_75: 1208793116
+      kenney_scribble_platformer_spritesheet_76: 1052520738
+      kenney_scribble_platformer_spritesheet_77: -1928351393
+      kenney_scribble_platformer_spritesheet_78: 1726956737
+      kenney_scribble_platformer_spritesheet_79: 1752133182
+      kenney_scribble_platformer_spritesheet_8: 1828912191
+      kenney_scribble_platformer_spritesheet_80: -486875731
+      kenney_scribble_platformer_spritesheet_81: 451820359
+      kenney_scribble_platformer_spritesheet_82: 643939447
+      kenney_scribble_platformer_spritesheet_83: -403450649
+      kenney_scribble_platformer_spritesheet_84: 1707399602
+      kenney_scribble_platformer_spritesheet_85: 259466219
+      kenney_scribble_platformer_spritesheet_86: -565091596
+      kenney_scribble_platformer_spritesheet_87: -964627449
+      kenney_scribble_platformer_spritesheet_88: 241613620
+      kenney_scribble_platformer_spritesheet_89: 929986370
+      kenney_scribble_platformer_spritesheet_9: 653008123
+      kenney_scribble_platformer_spritesheet_90: 2121426120
+      kenney_scribble_platformer_spritesheet_91: 1467530398
+      kenney_scribble_platformer_spritesheet_92: 463894250
+      kenney_scribble_platformer_spritesheet_93: 1896926547
+      kenney_scribble_platformer_spritesheet_94: -1973032750
+      kenney_scribble_platformer_spritesheet_95: -2073886165
+      kenney_scribble_platformer_spritesheet_96: -635138768
+      kenney_scribble_platformer_spritesheet_97: 1565756439
+      kenney_scribble_platformer_spritesheet_98: 1556754289
+      kenney_scribble_platformer_spritesheet_99: -1557784437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
