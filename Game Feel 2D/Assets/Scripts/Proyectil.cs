@@ -1,16 +1,21 @@
+using System;
 using UnityEngine;
 
 public class Proyectil : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private float _velocidad = 10f;
+    
+    private Rigidbody2D _rigidBody;
+
+    private void Awake()
     {
-        
+        _rigidBody = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        _rigidBody.linearVelocity = _rigidBody.linearVelocity * _velocidad;
     }
+
+
 }
